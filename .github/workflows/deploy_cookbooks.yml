@@ -1,7 +1,7 @@
 on:
   push:
      branches:
-       - main
+       - 9.0.0
 
 name: Deploy Cookbooks
 
