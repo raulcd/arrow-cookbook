@@ -15,7 +15,7 @@
 # specific language governing permissions and limitations
 # under the License.
 
-name: Test C++ Cookbook
+name: Test C++ Cookbooks
 
 on:
   pull_request:
